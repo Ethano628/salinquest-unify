@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Salin Wire Mesh & Hardware - Leading Global Supplier | Stainless Steel, Galvanized & Welded Mesh",
+      "description": "Professional manufacturer of high-quality wire mesh and hardware accessories. Specializing in stainless steel, galvanized, welded mesh solutions for industrial, construction, and filtration applications worldwide."
+    }
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "wireMesh": "Wire Mesh",
+    "hardware": "Hardware",
+    "custom": "Custom Solutions",
+    "applications": "Applications",
+    "technical": "Technical",
+    "calculators": "Calculators",
+    "encyclopedia": "Encyclopedia",
+    "capabilities": "Capabilities",
+    "certificates": "Certificates",
+    "news": "News",
+    "contact": "Contact",
+    "getQuote": "Get Quote"
+  },
+  "hero": {
+    "badge": "Leading Wire Mesh Manufacturer Since 2010",
+    "title": "Premium Wire Mesh &",
+    "titleHighlight": "Hardware Solutions",
+    "description": "Professional manufacturer of stainless steel, galvanized, and welded wire mesh products. Serving construction, industrial, filtration, and security applications worldwide with precision-engineered solutions.",
+    "cta": {
+      "products": "Explore Products",
+      "quote": "Get Free Quote"
+    },
+    "features": {
+      "quality": {
+        "title": "Premium Quality",
+        "description": "ISO 9001 certified manufacturing"
+      },
+      "certified": {
+        "title": "Industry Certified",
+        "description": "CE, SGS, and ASTM standards"
+      },
+      "shipping": {
+        "title": "Global Shipping",
+        "description": "Worldwide delivery available"
+      }
+    }
+  },
+  "products": {
+    "featured": {
+      "badge": "Our Bestsellers",
+      "title": "Featured Products",
+      "description": "Discover our most popular wire mesh and hardware solutions, trusted by professionals worldwide for their quality and reliability.",
+      "viewAll": "View All Products"
+    }
+  },
+  "applications": {
+    "title": "Industry Applications",
+    "description": "Our wire mesh products serve diverse industries with specialized solutions for unique requirements.",
+    "viewAll": "View All Applications",
+    "industries": {
+      "filtration": {
+        "title": "Filtration & Separation",
+        "description": "Precision mesh for oil, water, air filtration systems"
+      },
+      "construction": {
+        "title": "Construction & Building",
+        "description": "Reinforcement mesh, concrete screening, structural applications"
+      },
+      "security": {
+        "title": "Security & Fencing",
+        "description": "Perimeter protection, prison mesh, high-security barriers"
+      },
+      "industrial": {
+        "title": "Industrial Manufacturing",
+        "description": "Machine guards, ventilation screens, conveyor systems"
+      },
+      "agricultural": {
+        "title": "Agricultural & Farming",
+        "description": "Livestock fencing, grain storage, greenhouse applications"
+      },
+      "architectural": {
+        "title": "Architectural Design",
+        "description": "Decorative panels, building facades, interior design"
+      }
+    }
+  },
+  "footer": {
+    "newsletter": {
+      "title": "Stay Updated with Latest Products",
+      "description": "Get technical updates, new product announcements, and industry insights delivered to your inbox.",
+      "placeholder": "Enter your email address",
+      "subscribe": "Subscribe"
+    },
+    "company": {
+      "description": "Leading manufacturer of premium wire mesh and hardware solutions, serving global markets with innovative products and exceptional quality since 2010."
+    },
+    "sections": {
+      "products": "Products",
+      "company": "Company",
+      "resources": "Resources",
+      "applications": "Applications"
+    }
+  }
+}
