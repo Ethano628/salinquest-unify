@@ -1,0 +1,1 @@
+export const TestimonialsSection = () => <div>Testimonials Coming Soon</div>

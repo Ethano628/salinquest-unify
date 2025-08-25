@@ -1,0 +1,1 @@
+export const LatestNews = () => <div>Latest News Coming Soon</div>

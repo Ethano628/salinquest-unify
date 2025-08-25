@@ -1,0 +1,1 @@
+export const WhyChooseUs = () => <div>Why Choose Us Coming Soon</div>
